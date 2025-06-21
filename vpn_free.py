@@ -178,7 +178,7 @@ def start():
 	link='https://www.vpnbook.com/freevpn'
 	rpass=os.path.join('src' ,'password.png')
 	print(f""" {GREEN}======================================\n [1]{WHITE} Conectarme a un OVPN almacenado
- {GREEN}[2]{WHITE} Descargar ZIP con todos los .ovpn\n{GREEN} [3]{WHITE} Actualizar credenciales de VPN-FREE\n{GREEN} [X]{WHITE} Finalizar SCRIPT [AHORA]\n {GREEN}======================================{WHITE}
+ {GREEN}[2]{WHITE} Descargar ZIP CON OVPN \n{GREEN} [3]{WHITE} Actualizar credenciales de VPN-FREE\n{GREEN} [X]{WHITE} Finalizar SCRIPT [AHORA]\n {GREEN}======================================{WHITE}
 		""")
 
 	opc=input(f"{GREEN} [+]{WHITE} Seleccione su opcion => {GREEN}")
