@@ -10,8 +10,10 @@
 
 * INSTALAR EN WINDOWS *
 1. git clone https://github.com/YearZero4/vpn-free.git
-2. luego dirigirte a la carpeta vpn-free 
-3. darle click derecho al enlace win-vpn.bat.lnk
+2. cd vpn-free
+3. pip install -r requirements.txt
+4. Salir de la CMD o GIT BASH e ir a la carpeta vpn-free
+5. darle click derecho al enlace win-vpn.bat.lnk
 
 
 
