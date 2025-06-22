@@ -3,12 +3,9 @@
 1. git clone https://github.com/YearZero4/vpn-free.git
 2. cd vpn-free
 3. chmod 777 *
-
-sudo apt install openvpn python3 
-
-pip install -r requirements.txt
-
-python3 vpn-free.py
+4. sudo apt install openvpn python3
+5. pip install -r requirements.txt
+6. python3 vpn-free.py
 
 
 * INSTALAR EN WINDOWS *
